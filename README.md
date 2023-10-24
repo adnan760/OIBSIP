@@ -24,7 +24,28 @@ Utilize Python for detailed examination of employment distribution across states
 
 This task aims to provide actionable insights, facilitating informed decision-making for governments, businesses, and policymakers in navigating the complexities of post-pandemic employment scenarios.
 
+<br>
+
 ### Car Price Prediction
+
+This task, executed using Python, is dedicated to predicting car prices based on their attributes, fostering informed decisions for car buyers and market stakeholders.
+
+Objectives:
+
+1. Price Prediction for Car Buyers:
+Utilize Python's data analytics capabilities to develop a predictive model that estimates new car prices using key attributes. This empowers potential buyers with pricing insights.
+
+2. Attribute Impact Analysis:
+Employ Python to uncover the influence of various car attributes on prices. This analysis yields valuable market insights, helping manufacturers and dealers optimize their offerings.
+
+3. Model Performance Assessment:
+Assess the effectiveness of a linear regression model in predicting car prices with the provided dataset, gauging the model's suitability for the task.
+
+The task aims to bridge the gap between buyers and sellers, enabling well-informed decisions and enhancing the understanding of the car market.
+
+<br>
+
+### t
 
 
 
